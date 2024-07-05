@@ -1,6 +1,6 @@
 ---
 title: 사용자 워크플로우
-description: Mix Modeler의 워크플로를 알아봅니다.
+description: Mix Modeler의 워크플로에 대해 알아봅니다.
 role: Admin, Architect, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
