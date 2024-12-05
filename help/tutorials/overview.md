@@ -4,7 +4,7 @@ description: Adobe Mix Modeler용 비디오 및 튜토리얼 컬렉션입니다.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: 3c615f525f1d589af3220bdd8f2cd40894d8f829
+source-git-commit: cb11a8eb8640282e849f6a096ef6e24635c58ced
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -44,16 +44,16 @@ Adobe Mix Modeler은 마케팅 투자가 주요 비즈니스 목표에 미치는
     <p>
   </td>
   <td>
-    <a href="intro/user-workflow.md">
-      <img alt="&apos;사용자 워크플로우&apos; 자습서에 대한 썸네일 이미지" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+    <a href="intro/demo.md">
+      <img alt="&quot;전체 데모&quot; 자습서에 대한 썸네일 이미지" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
     <div>
-      <a href="intro/user-workflow.md">
-    <strong>사용자 워크플로우</strong>
+      <a href="intro/demo.md">
+    <strong>전체 데모</strong>
     </a>
     </div>
     <p>
-    <em>Adobe Mix Modeler의 기본 워크플로우 알아보기</em>
+    <em>전체 Adobe Mix Modeler 데모 보기</em>
     <p>
   </td>
   <td>
@@ -66,7 +66,7 @@ Adobe Mix Modeler은 마케팅 투자가 주요 비즈니스 목표에 미치는
     </a>
     </div>
     <p>
-    <em>Adobe Mix Modeler의 주요 사용자 인터페이스 구성 요소 알아보기</em>
+    <em>Adobe Mix Modeler의 주요 사용자 인터페이스 구성 요소를 알아봅니다</em>
     <p>
   </td>
 </tr>
