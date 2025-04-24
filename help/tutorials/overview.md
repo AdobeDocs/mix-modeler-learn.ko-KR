@@ -4,7 +4,7 @@ description: Adobe Mix Modeler용 비디오 및 튜토리얼 컬렉션입니다.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: cb11a8eb8640282e849f6a096ef6e24635c58ced
+source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -13,7 +13,7 @@ ht-degree: 12%
 
 # Mix Modeler 튜토리얼
 
-이 비디오 및 튜토리얼에서 Adobe Mix Modeler에 대해 알아봅니다.
+이 비디오 및 튜토리얼에서 Adobe Mix Modeler에 대해 알아보십시오.
 
 Adobe Mix Modeler은 마케팅 투자가 주요 비즈니스 목표에 미치는 역사적 및 향후 영향에 대한 통찰력을 제공하는 머신 러닝 모델을 적용하여 조직이 마케팅 투자를 측정, 최적화 및 계획할 수 있도록 지원합니다.
 
@@ -31,19 +31,6 @@ Adobe Mix Modeler은 마케팅 투자가 주요 비즈니스 목표에 미치는
 <table style="margin-top: 0 !important">
 <tr>
   <td>
-    <a href="intro/use-cases.md">
-      <img alt="&apos;사용 사례&apos; 자습서에 대한 썸네일 이미지" src="https://video.tv.adobe.com/v/3424857?format=jpeg" />
-    </a>
-    <div>
-      <a href="intro/use-cases.md">
-    <strong>사용 사례</strong>
-    </a>
-    </div>
-    <p>
-    <em>Adobe Mix Modeler의 주요 사용 사례 알아보기</em>
-    <p>
-  </td>
-  <td>
     <a href="intro/demo.md">
       <img alt="&quot;전체 데모&quot; 자습서에 대한 썸네일 이미지" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
@@ -53,7 +40,7 @@ Adobe Mix Modeler은 마케팅 투자가 주요 비즈니스 목표에 미치는
     </a>
     </div>
     <p>
-    <em>전체 Adobe Mix Modeler 데모 보기</em>
+    <em>Adobe Mix Modeler의 전체 데모 보기</em>
     <p>
   </td>
   <td>
@@ -70,6 +57,19 @@ Adobe Mix Modeler은 마케팅 투자가 주요 비즈니스 목표에 미치는
     <p>
   </td>
 </tr>
+  <td>
+    <a href="intro/user-workflow.md">
+      <img alt="&apos;사용자 워크플로우&apos; 자습서에 대한 썸네일 이미지" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+    </a>
+    <div>
+      <a href="intro/user-workflow.md">
+    <strong>사용자 워크플로</strong>
+    </a>
+    </div>
+    <p>
+    <em>Adobe Mix Modeler의 사용자 워크플로에 대해 알아보기</em>
+    <p>
+  </td>
 </table>
 
 </div>
