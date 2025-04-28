@@ -4,7 +4,7 @@ description: Adobe Mix Modeler용 비디오 및 튜토리얼 컬렉션입니다.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
+source-git-commit: fcae8d9fd4609b2742ade0a589451a037ca69b71
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -56,7 +56,6 @@ Adobe Mix Modeler은 마케팅 투자가 주요 비즈니스 목표에 미치는
     <em>Adobe Mix Modeler의 주요 사용자 인터페이스 구성 요소를 알아봅니다</em>
     <p>
   </td>
-</tr>
   <td>
     <a href="intro/user-workflow.md">
       <img alt="&apos;사용자 워크플로우&apos; 자습서에 대한 썸네일 이미지" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
@@ -70,6 +69,7 @@ Adobe Mix Modeler은 마케팅 투자가 주요 비즈니스 목표에 미치는
     <em>Adobe Mix Modeler의 사용자 워크플로에 대해 알아보기</em>
     <p>
   </td>
+</tr>
 </table>
 
 </div>
