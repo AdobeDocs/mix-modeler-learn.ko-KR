@@ -17,6 +17,6 @@ ht-degree: 28%
 
 # 사용자 인터페이스 둘러보기
 
-사용자 인터페이스에서 Mix Modeler의 주요 기능을 참조하십시오. 자세한 내용은 [Adobe Mix Modeler 가이드](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow)를 참조하세요.
+사용자 인터페이스에서 Mix Modeler의 주요 기능을 참조하십시오. 자세한 내용은 [Adobe Mix Modeler 가이드](https://experienceleague.adobe.com/ko/docs/mix-modeler/using/get-started/workflow)를 참조하세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)

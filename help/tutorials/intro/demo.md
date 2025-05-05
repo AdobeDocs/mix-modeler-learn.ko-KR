@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Mix Modeler 엔드투엔드 데모
 
-Adobe Mix Modeler의 전체적인 데모를 참조하십시오. 자세한 내용은 [Mix Modeler 설명서](https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview)를 참조하세요.
+Adobe Mix Modeler의 전체적인 데모를 참조하십시오. 자세한 내용은 [Mix Modeler 설명서](https://experienceleague.adobe.com/ko/docs/mix-modeler/using/overview)를 참조하세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)
