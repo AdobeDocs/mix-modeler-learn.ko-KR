@@ -17,6 +17,6 @@ ht-degree: 23%
 
 # 사용자 워크플로우
 
-Mix Modeler의 워크플로우에 대해 알아봅니다. 자세한 내용은 [Mix Modeler 워크플로](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow) 설명서를 참조하십시오.
+Mix Modeler의 워크플로우에 대해 알아봅니다. 자세한 내용은 [Mix Modeler 워크플로](https://experienceleague.adobe.com/ko/docs/mix-modeler/using/get-started/workflow) 설명서를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
