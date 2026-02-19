@@ -5,18 +5,16 @@ role: Admin, Architect, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
 jira: KT-20157
-hide: true
-hidefromtoc: true
-source-git-commit: c875065c55181af3881526e8927e1ad9f2c8cda0
+exl-id: aa5297d9-e1fa-4303-b645-22f3c964279e
+source-git-commit: 11a72f626e23b898b82b86660867a4620f13a192
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
-
 # 목표 기반 계획
 
-Mix Modeler의 목표 기반 계획 기능을 사용하면 예산뿐만 아니라 비즈니스 목표에서 계획할 수 있습니다. 채널 및 캠페인에 예산을 효율적으로 할당하여 ROI를 극대화하고 목표를 달성할 수 있습니다. 자세한 내용은 Mix Modeler 설명서에서 [계획](https://experienceleague.adobe.com/ko/docs/mix-modeler/using/plans/overview){target="_blank"}을 참조하세요.
+Mix Modeler의 목표 기반 계획 기능을 사용하면 예산뿐만 아니라 비즈니스 목표에서 계획할 수 있습니다. 채널 및 캠페인에 예산을 효율적으로 할당하여 ROI를 극대화하고 목표를 달성할 수 있습니다. 자세한 내용은 Mix Modeler 설명서에서 [계획](https://experienceleague.adobe.com/en/docs/mix-modeler/using/plans/overview){target="_blank"}을 참조하세요.
 
 >[!SLIDE](goal-based-planning)
