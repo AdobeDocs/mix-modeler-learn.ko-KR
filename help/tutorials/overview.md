@@ -40,7 +40,7 @@ Adobe Mix Modeler은 마케팅 투자가 주요 비즈니스 목표에 미치는
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="&quot;전체 데모&quot; 자습서에 대한 썸네일 이미지" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
+      <img alt="&quot;전체 데모&quot; 자습서에 대한 썸네일 이미지" src="https://video.tv.adobe.com/v/3440801?captions=kor&format=jpeg" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -53,7 +53,7 @@ Adobe Mix Modeler은 마케팅 투자가 주요 비즈니스 목표에 미치는
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="&apos;사용자 인터페이스 둘러보기&apos; 비디오의 썸네일 이미지" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
+      <img alt="&apos;사용자 인터페이스 둘러보기&apos; 비디오의 썸네일 이미지" src="https://video.tv.adobe.com/v/3452389?captions=kor&format=jpeg" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -66,7 +66,7 @@ Adobe Mix Modeler은 마케팅 투자가 주요 비즈니스 목표에 미치는
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="&apos;사용자 워크플로우&apos; 자습서에 대한 썸네일 이미지" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+      <img alt="&apos;사용자 워크플로우&apos; 자습서에 대한 썸네일 이미지" src="https://video.tv.adobe.com/v/3440210?captions=kor&format=jpeg" />
     </a>
     <div>
       <a href="intro/user-workflow.md">
